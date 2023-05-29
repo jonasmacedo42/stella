@@ -13,8 +13,8 @@ Aqui estão listadas as principais plataformas de empregos e trabalhos freelance
 
 [voltar ao índice](#índice)
 
-- <a href="https://programathor.com.br/" target="_blank"><strong>ProgramaThor</strong></a>: plataforma 100% dedicada ao recrutamento de programadores.
-  - 💲 **Custo**: <span style="color:lightgreen">gratuito</span>
+- [ProgramaThor](https://programathor.com.br/): plataforma 100% dedicada ao recrutamento de programadores.
+  - 💲 **Custo**: gratuito
 
 ## Plataformas gerais
 
