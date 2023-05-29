@@ -4,16 +4,16 @@ Aqui estão listadas as principais plataformas de empregos e trabalhos freelance
 
 ## Índice
 
-- [Plataformas dedicadas](): são plataformas voltadas especificamente para vagas de emprego na área de TI.
-- [Plataformas gerais](): são plataformas dedicadas a vagas de emprego no geral, mas que também contemplam a área de TI.
-- [Plataformas internacionais](): são plataformas de vagas para o exterior.
-- [Freelancer](): são plataformas para trabalhos freelancer.
+- [Plataformas dedicadas](#plataformas-dedicadas): são plataformas voltadas especificamente para vagas de emprego na área de TI.
+- [Plataformas gerais](#plataformas-gerais): são plataformas dedicadas a vagas de emprego no geral, mas que também contemplam a área de TI.
+- [Plataformas internacionais](#plataformas-internacionais): são plataformas de vagas para o exterior.
+- [Freelancer](#freelancer): são plataformas para trabalhos freelancer.
 
 ## Plataformas dedicadas
 
 [voltar ao índice](#índice)
 
-- <a href="https://programathor.com.br/" target="_blank">ProgramaThor</a>
+- <a href="https://programathor.com.br/" target="_blank">ProgramaThor</a>: 
 
 ## Plataformas gerais
 
