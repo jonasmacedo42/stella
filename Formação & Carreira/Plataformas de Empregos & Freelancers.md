@@ -13,7 +13,7 @@ Aqui estão listadas as principais plataformas de empregos e trabalhos freelance
 
 [voltar ao índice](#índice)
 
-- <a href="https://programathor.com.br/" target="_blank">ProgramaThor</a>: 
+- <a href="https://programathor.com.br/" target="_top">ProgramaThor</a>: 
 
 ## Plataformas gerais
 
