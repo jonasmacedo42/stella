@@ -1,6 +1,5 @@
-<h1 style="text-align:center"><strong>Stella</strong></h1>
-
-<div align="center">  
+<div align="center">
+  <h1><strong>Stella</strong></h1>
   <img
     height="80"
     width="80"
