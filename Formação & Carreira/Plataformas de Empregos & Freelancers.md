@@ -9,8 +9,8 @@ Aqui estão listadas as principais plataformas de empregos e trabalhos freelance
 - [Plataformas dedicadas](#plataformas-dedicadas): atuam em nichos; são voltadas especificamente para determinadas áreas, incluindo TI.
   - [ProgramaThor](#programathor)
   - [Remotar](#remotar)
-  - [Geek Hunter](geekhunter)
-  - [Hipster.jobs](hipsterjobs)
+  - [Geek Hunter](#geekhunter)
+  - [Hipster.jobs](#hipsterjobs)
   - [Trampos](#trampos)
 - [Plataformas gerais](#plataformas-gerais): dedicadas a vagas de emprego no geral, mas que também contemplam a área de TI.
 - [Plataformas internacionais](#plataformas-internacionais): vagas para o exterior.
