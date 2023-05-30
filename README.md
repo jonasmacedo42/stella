@@ -1,10 +1,9 @@
-<div style="text-align: center;">
-  <img src="./images/logo.png" alt="Estrela do Norte em tons de roxo." >
+<div align="center">
+  <h1>Stella</h1>
+  <img
+    height="80"
+    width="80"
+    alt="stella"
+    src="./images/logo.png"
+  />
 </div>
-
-<div style="display: flex; justify-content: center;">
-  <img src="./images/logo.png" alt="Estrela do Norte em tons de roxo." style="margin: auto;">
-</div>
-
-
-# Stella
