@@ -1,6 +1,12 @@
-# Plataformas de Empregos & Freelancers
+---
+layout: default
+title: Plataformas de Empregos & Freelancers
+description: Aqui estão listadas as principais plataformas de empregos e trabalhos freelancer na área de TI.
+---
 
-[voltar para a página inicial](../README.md)
+## Plataformas de Empregos & Freelancers
+
+[voltar para a página inicial](https://jonasmacedo42.github.io/stella/)
 
 Aqui estão listadas as principais plataformas de empregos e trabalhos freelancer na área de TI.
 
