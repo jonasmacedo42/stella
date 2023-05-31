@@ -63,13 +63,29 @@ Aqui estão listadas as principais plataformas de empregos e trabalhos freelance
   - 💼 **Modalidade de vagas**: remoto, híbrido ou presencial.
   - 💲 **Custo**: gratuito.
 
-  
+
 
 ## Plataformas internacionais
 
 [voltar ao índice](#índice)
 
 ## Estágios
+
+- <a id="estagiotrainee" target="_blank" href="https://www.estagiotrainee.com/vagas-programas-estagio?gclid=Cj0KCQjw4NujBhC5ARIsAF4Iv6fv0rnSyb4tBhXvb1LD3JrH_-GcYHvqYJVF4TuLh6qnm-6PqTZQPE8aAimvEALw_wcB">Estágio Trainee</a>: plataforma de oportunidades de estágio e trainee. Oferece vagas para estudantes em grandes empresas com programas de estágio.
+ - 💼 **Modalidade de vagas**: remoto, híbrido, ou presencial.
+   - 💲 **Custo**: *gratuito*.
+
+- <a id="nube" target="_blank" href="https://www.nube.com.br">Nube</a>: plataforma de oportunidades de estágio. Oferece vagas para estudantes de diversos cursos para programas de estágio e vagas.
+ - 💼 **Modalidade de vagas**: remoto, híbrido, ou presencial.
+   - 💲 **Custo**: *gratuito*.
+
+- <a id="ciee" target="_blank" href="https://www.nube.com.br">Ciee</a>: plataforma de oportunidades de estágio e jovem aprendiz. Oferece vagas para estudantes de diversoso cursos, onde o candidato procura por vagas na sua cidade ou região.
+ - 💼 **Modalidade de vagas**: presencial.
+   - 💲 **Custo**: *gratuito*.
+
+- <a id="glassdoor" target="_blank" href="https://www.glassdoor.com.br/Job/Home/recentActivity.htm">Ciee</a>: plataforma de oportunidades de emprego em geral. Oferece vagas de contratos efetivos, estágio e jovem aprendiz, onde também pode ser feito a pesquisa sobre as empresas que oferecem as vagas, como a satisfação dos funcionários, expectativa salarial, processos seletivos e entre outros.
+ - 💼 **Modalidade de vagas**: presencial, híbrido ou remoto.
+   - 💲 **Custo**: *gratuito*.
 
 [voltar ao índice](#índice)
 
