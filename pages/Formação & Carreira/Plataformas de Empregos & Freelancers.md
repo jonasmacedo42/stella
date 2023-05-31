@@ -61,9 +61,19 @@ Aqui estão listadas as principais plataformas de empregos e trabalhos freelance
 
 - <a id="vagas" target="_blank" href="https://www.vagas.com.br">Vagas</a>: plataforma de oportunidades de emprego em geral. Oferece vagas para uam grande diversidade de cargos, abrangendo também a área de TI. Além de cargos efetivos, oferece estágios, jovem aprendiz e freelancer.
   - 💼 **Modalidade de vagas**: remoto, híbrido ou presencial.
-  - 💲 **Custo**: gratuito.
+  - 💲 **Custo**: *gratuito*.
 
+- <a id="infojobs" target="_blank" href="https://www.infojobs.com.br">Infojobs</a>: plataforma de oportunidades de emprego em geral. Oferece vagas para uam grande diversidade de cargos, abrangendo também a área de TI. Além de cargos efetivos, oferece estágios, jovem aprendiz e freelancer.
+  - 💼 **Modalidade de vagas**: remoto, híbrido ou presencial.
+  - 💲 **Custo**: *gratuito*.
 
+  - <a id="catho" target="_blank" href="https://www.catho.com.br">Catho</a>: plataforma de oportunidades de emprego em geral. Oferece vagas para uam grande diversidade de cargos, abrangendo também a área de TI. Além de cargos efetivos, oferece estágios, jovem aprendiz e freelancer.
+  - 💼 **Modalidade de vagas**: remoto, híbrido ou presencial.
+  - 💲 **Custo**: *gratuito*.
+
+    - <a id="empregos" target="_blank" href="https://www.empregos.com.br">Empregos</a>: plataforma de oportunidades de emprego em geral. Oferece vagas para uam grande diversidade de cargos, abrangendo também a área de TI. Além de cargos efetivos, oferece estágios, jovem aprendiz e freelancer.
+  - 💼 **Modalidade de vagas**: remoto, híbrido ou presencial.
+  - 💲 **Custo**: *gratuito*.
 
 ## Plataformas internacionais
 
@@ -71,7 +81,9 @@ Aqui estão listadas as principais plataformas de empregos e trabalhos freelance
 
 ## Estágios
 
-- <a id="estagiotrainee" target="_blank" href="https://www.estagiotrainee.com/vagas-programas-estagio?gclid=Cj0KCQjw4NujBhC5ARIsAF4Iv6fv0rnSyb4tBhXvb1LD3JrH_-GcYHvqYJVF4TuLh6qnm-6PqTZQPE8aAimvEALw_wcB">Estágio Trainee</a>: plataforma de oportunidades de estágio e trainee. Oferece vagas para estudantes em grandes empresas com programas de estágio.
+[voltar ao índice](#índice)
+
+- <a id="estagio-trainee" target="_blank" href="https://www.estagiotrainee.com/vagas-programas-estagio?gclid=Cj0KCQjw4NujBhC5ARIsAF4Iv6fv0rnSyb4tBhXvb1LD3JrH_-GcYHvqYJVF4TuLh6qnm-6PqTZQPE8aAimvEALw_wcB">Estágio Trainee</a>: plataforma de oportunidades de estágio e trainee. Oferece vagas para estudantes em grandes empresas com programas de estágio.
  - 💼 **Modalidade de vagas**: remoto, híbrido, ou presencial.
    - 💲 **Custo**: *gratuito*.
 
@@ -87,11 +99,18 @@ Aqui estão listadas as principais plataformas de empregos e trabalhos freelance
  - 💼 **Modalidade de vagas**: presencial, híbrido ou remoto.
    - 💲 **Custo**: *gratuito*.
 
-[voltar ao índice](#índice)
+   - <a id="super-estagio" target="_blank" href="https://www.superestagios.com.br/index/">Super Estágio</a>: plataforma de oportunidades de estágios. Oferece diversas vagas para todos os cursos, o candidato deve se cadastrar na plataforma, completar todas as etapas do cadastro e procurar as vagas compatíveis.
+ - 💼 **Modalidade de vagas**: presencial, híbrido ou remoto.
+   - 💲 **Custo**: *gratuito*.
 
 ## Freelancer
 
 [voltar ao índice](#índice)
+
+
+- <a id="workana" target="_blank" href="www.workana.com">Workana</a>: plataforma de trabalhadores independentes. Oferece oportunidades para os freelancers de todas as áreas, também sendo possível solicitar serviços de outros profissinais na plataforma
+ - 💼 **Modalidade de vagas**: remoto.
+   - 💲 **Custo**: O preço varia por serviço. 
 
 <!--
 - <a id="" target="_blank" href=""></a>:
