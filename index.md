@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Stella
 ---
 
-# Conteúdo
+## Conteúdo
 
 ## Formação e Carreira
 
