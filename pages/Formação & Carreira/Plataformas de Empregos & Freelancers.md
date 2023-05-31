@@ -51,6 +51,20 @@ Aqui estão listadas as principais plataformas de empregos e trabalhos freelance
 
 [voltar ao índice](#índice)
 
+- <a id="remotar" target="_blank" href="https://remotar.com.br">Remotar</a>: plataforma de oportunidades de emprego geral, de diversas áreas. Oferece vagas em modelo remoto e também híbrido, oferecendo vagas de estágio, jovem aprendiz e vagas internacionais.
+  - 💼 **Modalidade de vagas**: remoto, ou híbrido.
+   - 💲 **Custo**: *gratuito*.
+
+- <a id="indeed" target="_blank" href="https://br.indeed.com">Indeed</a>: plataforma de oportunidades de emprego geral. Permite que você encontre oportunidades em diversas áreas, incluisve TI. Oferece cargos efetivos, estágios, jovem aprendiz e freelancer.
+ - 💼 **Modalidade de vagas**: remoto, híbrido, ou presencial.
+   - 💲 **Custo**: *gratuito*.
+
+- <a id="vagas" target="_blank" href="https://www.vagas.com.br">Vagas</a>: plataforma de oportunidades de emprego em geral. Oferece vagas para uam grande diversidade de cargos, abrangendo também a área de TI. Além de cargos efetivos, oferece estágios, jovem aprendiz e freelancer.
+  - 💼 **Modalidade de vagas**: remoto, híbrido ou presencial.
+  - 💲 **Custo**: gratuito.
+
+  
+
 ## Plataformas internacionais
 
 [voltar ao índice](#índice)
