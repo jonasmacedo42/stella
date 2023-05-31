@@ -6,7 +6,7 @@ description: Aqui estão listadas as principais plataformas de empregos e trabal
 
 ## Plataformas de Empregos & Freelancers
 
-[voltar para a página inicial](../../index.html)
+[voltar para a página inicial](../../)
 
 Aqui estão listadas as principais plataformas de empregos e trabalhos freelancer na área de TI.
 
