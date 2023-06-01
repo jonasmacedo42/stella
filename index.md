@@ -7,4 +7,4 @@ title: Guia Stella
 
 ### Formação e Carreira
 
-- [Plataformas de Empregos & Freelancers](./pages/formacao-e-carreira/plataformas-de-empregos-e-freelancers.html): plataformas de vagas de empregos, estágios, vagas internacionais e trabalhos freelancer na área de Tecnologia.
+- [Plataformas de Empregos & Freelancers](./pages/formacao-e-carreira/plataformas-de-empregos-e-freelancers.html): plataformas de vagas de empregos, vagas internacionais, estágios e trabalhos freelancer na área de Tecnologia.

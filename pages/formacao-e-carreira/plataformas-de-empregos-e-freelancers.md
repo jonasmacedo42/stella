@@ -1,21 +1,16 @@
 ---
 layout: default
 title: Plataformas de Empregos & Freelancers
-description: Plataformas de vagas de empregos, estágios, vagas internacionais e trabalhos freelancer na área de Tecnologia
+description: Plataformas de vagas de empregos, vagas internacionais, estágios e trabalhos freelancer na área de Tecnologia
 ---
 
-[voltar para a página inicial](https://jonasmacedo42.github.io/stella/)
+[voltar para a página inicial](https://jonasmacedo42.github.io/guia-stella/)
 
-Aqui estão listadas as principais plataformas de empregos e trabalhos freelancer na área de TI.
+Aqui estão listadas diversas plataformas de vagas e trabalhos freelancer na área de TI.
 
 ## Índice
 
 - [Plataformas dedicadas](#plataformas-dedicadas): atuam em nichos; são voltadas especificamente para determinadas áreas, incluindo TI.
-  - [ProgramaThor](#programathor)
-  - [Remotar](#remotar)
-  - [Geek Hunter](#geekhunter)
-  - [Hipster.jobs](#hipsterjobs)
-  - [Trampos](#trampos)
 - [Plataformas gerais](#plataformas-gerais): dedicadas a vagas de emprego no geral, mas que também contemplam a área de TI.
 - [Plataformas internacionais](#plataformas-internacionais): vagas para o exterior.
 - [Estágios](#estágios)
@@ -25,9 +20,14 @@ Aqui estão listadas as principais plataformas de empregos e trabalhos freelance
 
 [voltar ao índice](#índice)
 
-- <a id="programathor" target="_blank" href="https://programathor.com.br/">ProgramaThor</a>: plataforma 100% dedicada ao recrutamento de programadores. Oferece acesso a várias oportunidades para desenvolvedores Front-end, Back-end, Mobile ou Full Stack.
-  - 💼 **Modalidade de vagas**: remoto, híbrido ou presencial.
-  - 💲 **Custo**: *gratuito*.
+### ProgramaThor
+
+- 🖥️ **Site**: [programathor.com.br](https://programathor.com.br/)
+- 🧭 **Áreas de atuação**: *exclusivamente em Tecnologia*.
+- 💼 **Modalidade de vagas**: remoto, híbrido ou presencial.
+- 💲 **Custo**: *gratuito*.
+
+Plataforma 100% dedicada ao recrutamento de programadores. Oferece acesso a várias oportunidades para desenvolvedores Front-end, Back-end, Mobile ou Full Stack.
 
 - <a id="remotar" target="_blank" href="https://remotar.com.br/">Remotar</a>: plataforma que conecta profissionais do trabalho remoto às melhores vagas selecionadas da modalidade.
   - 💼 **Modalidade de vagas**: remoto ou híbrido.
