@@ -20,7 +20,7 @@ Aqui estão listadas diversas plataformas de vagas e trabalhos freelancer na ár
 
 [voltar ao índice](#índice)
 
-### ProgramaThor
+### *ProgramaThor*
 
 - 🖥️ **Site**: [programathor.com.br](https://programathor.com.br/)
 - 🧭 **Áreas de atuação**: *exclusivamente em Tecnologia*.
