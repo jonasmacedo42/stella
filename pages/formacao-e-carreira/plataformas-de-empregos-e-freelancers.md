@@ -18,24 +18,43 @@ Aqui estão listadas diversas plataformas de vagas e trabalhos freelancer na ár
 
 ## Plataformas dedicadas
 
-[voltar ao índice](#índice)
-
 ### *ProgramaThor*
+
+[índice](#índice)
 
 - 🖥️ **Site**: [programathor.com.br](https://programathor.com.br/)
 - 🧭 **Áreas de atuação**: *exclusivamente em Tecnologia*.
-- 💼 **Modalidade de vagas**: remoto, híbrido ou presencial.
+- 💼 **Tipos de vagas**: CLT, PJ, estágio ou freelancer.
+- 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
 
-Plataforma 100% dedicada ao recrutamento de programadores. Oferece acesso a várias oportunidades para desenvolvedores Front-end, Back-end, Mobile ou Full Stack.
+Plataforma 100% dedicada ao recrutamento de programadores. Oferece acesso a várias oportunidades para desenvolvedores Front-end, Back-end, Mobile ou Full Stack. Além disso, a ProgramaThor também oferece uma ferramenta que expõe a média salarial praticada no mercado em função da linguagem e do nível de experiência dos candidatos.
 
-- <a id="remotar" target="_blank" href="https://remotar.com.br/">Remotar</a>: plataforma que conecta profissionais do trabalho remoto às melhores vagas selecionadas da modalidade.
-  - 💼 **Modalidade de vagas**: remoto ou híbrido.
-  - 💲 **Custo**: *gratuito*.
+### *Remotar*
 
-- <a id="geekhunter" target="_blank" href="https://www.geekhunter.com.br/">Geek Hunter</a>: plataforma especializada em conectar profissionais de tecnologia com empresas que buscam talentos.
-  - 💼 **Modalidade de vagas**: remoto, híbrido ou presencial.
-  - 💲 **Custo**: *gratuito*.
+[índice](#índice)
+
+- 🖥️ **Site**: [remotar.com.br](https://remotar.com.br/)
+- 🧭 **Áreas de atuação**: diversas áreas, onde todas possuem a modalidade de home office; também contempla a área da Tecnologia.
+- 💼 **Tipos de vagas**: CLT, PJ, estágio ou freelancer.
+- 🏢 **Modalidade de vagas**: remoto ou híbrido.
+- 💲 **Custo**: *gratuito*.
+
+Plataforma que conecta profissionais do trabalho remoto às melhores vagas selecionadas da modalidade. Oferece vagas remotas em todo o Brasil.
+
+### *Geek Hunter*
+
+[índice](#índice)
+
+- 🖥️ **Site**: [geekhunter.com.br](https://www.geekhunter.com.br/)
+- 🧭 **Áreas de atuação**: 
+- 💼 **Tipos de vagas**: 
+- 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
+- 💲 **Custo**: *gratuito*.
+
+- <a id="geekhunter" target="_blank" href=""></a>: plataforma especializada em conectar profissionais de tecnologia com empresas que buscam talentos.
+  - 💼 **Modalidade de vagas**: 
+  - 💲 **Custo**: 
 
 - <a id="hipsterjobs" target="_blank" href="https://hipsters.jobs/">Hipster.jobs</a>: portal de vagas de emprego para profissionais de Tecnologia criado pela Alura.
   - 💼 **Modalidade de vagas**: remoto, híbrido ou presencial.
@@ -92,7 +111,11 @@ Plataforma 100% dedicada ao recrutamento de programadores. Oferece acesso a vár
 [voltar ao índice](#índice)
 
 <!--
-- <a id="" target="_blank" href=""></a>:
-  - 💼 **Modalidade de vagas**:
-  - 💲 **Custo**:
+[índice](#índice)
+
+- 🖥️ **Site**: []()
+- 🧭 **Áreas de atuação**: 
+- 💼 **Tipos de vagas**: 
+- 🏢 **Modalidade de vagas**: 
+- 💲 **Custo**: 
 -->
