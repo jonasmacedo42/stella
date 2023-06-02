@@ -66,15 +66,28 @@ Plataforma que conecta profissionais do trabalho remoto às melhores vagas selec
 
 ## Plataformas gerais
 
+### *Remotar*
+
 [voltar ao índice](#índice)
 
-- <a id="remotar" target="_blank" href="https://remotar.com.br">Remotar</a>: plataforma de oportunidades de emprego geral, de diversas áreas. Oferece vagas em modelo remoto e também híbrido, oferecendo vagas de estágio, jovem aprendiz e vagas internacionais.
-  - 💼 **Modalidade de vagas**: remoto, ou híbrido.
-   - 💲 **Custo**: *gratuito*.
+- 🖥️ **Site**: [remotar.com.br](https://remotar.com.br)
+- 🧭 **Áreas de atuação**: diversas, onde todas possuem vagas da modalidade home office e híbrido; contempla a área de TI.
+- 💼 **Tipos de vagas**: CLT, PJ, estágio, freelancer ou jovem aprendiz. 
+- 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
+- 💲 **Custo**: *gratuito*.
 
-- <a id="indeed" target="_blank" href="https://br.indeed.com">Indeed</a>: plataforma de oportunidades de emprego geral. Permite que você encontre oportunidades em diversas áreas, incluisve TI. Oferece cargos efetivos, estágios, jovem aprendiz e freelancer.
- - 💼 **Modalidade de vagas**: remoto, híbrido, ou presencial.
-   - 💲 **Custo**: *gratuito*.
+- 🖥️ **Site**: [indeed.com](https://br.indeed.com)
+- 🧭 **Áreas de atuação**:  plataforma de oportunidades de emprego geral, onde contempla diversas áreas.
+- 💼 **Tipos de vagas**: CLT, PJ, estágio, freelancer ou jovem aprendiz. 
+- 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
+- 💲 **Custo**: *gratuito*.
+
+- 🖥️ **Site**: [indeed.com](https://br.indeed.com)
+- 🧭 **Áreas de atuação**:  plataforma de oportunidades de emprego geral, onde contempla diversas áreas.
+- 💼 **Tipos de vagas**: CLT, PJ, estágio, freelancer ou jovem aprendiz. 
+- 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
+- 💲 **Custo**: *gratuito*.
+
 
 - <a id="vagas" target="_blank" href="https://www.vagas.com.br">Vagas</a>: plataforma de oportunidades de emprego em geral. Oferece vagas para uam grande diversidade de cargos, abrangendo também a área de TI. Além de cargos efetivos, oferece estágios, jovem aprendiz e freelancer.
   - 💼 **Modalidade de vagas**: remoto, híbrido ou presencial.
@@ -100,7 +113,7 @@ Plataforma que conecta profissionais do trabalho remoto às melhores vagas selec
  - 💼 **Modalidade de vagas**: presencial.
    - 💲 **Custo**: *gratuito*.
 
-- <a id="glassdoor" target="_blank" href="https://www.glassdoor.com.br/Job/Home/recentActivity.htm">Ciee</a>: plataforma de oportunidades de emprego em geral. Oferece vagas de contratos efetivos, estágio e jovem aprendiz, onde também pode ser feito a pesquisa sobre as empresas que oferecem as vagas, como a satisfação dos funcionários, expectativa salarial, processos seletivos e entre outros.
+- <a id="glassdoor" target="_blank" href="https://www.glassdoor.com.br/Job/Home/recentActivity.htm">Glassdoor</a>: plataforma de oportunidades de emprego em geral. Oferece vagas de contratos efetivos, estágio e jovem aprendiz, onde também pode ser feito a pesquisa sobre as empresas que oferecem as vagas, como a satisfação dos funcionários, expectativa salarial, processos seletivos e entre outros.
  - 💼 **Modalidade de vagas**: presencial, híbrido ou remoto.
    - 💲 **Custo**: *gratuito*.
 
