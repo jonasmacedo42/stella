@@ -47,33 +47,31 @@ Plataforma que conecta profissionais do trabalho remoto às melhores vagas selec
 [índice](#índice)
 
 - 🖥️ **Site**: [geekhunter.com.br](https://www.geekhunter.com.br/)
-- 🧭 **Áreas de atuação**: 
-- 💼 **Tipos de vagas**: 
+- 🧭 **Áreas de atuação**:
+- 💼 **Tipos de vagas**:
 - 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
 
  Plataforma especializada em conectar profissionais de tecnologia com empresas que buscam talentos.
-
 
 ### *Hipster Jobs*
 
 [índice](#índice)
 
 - 🖥️ **Site**: [hipster.jobs](https://hipsters.jobs/)
-- 🧭 **Áreas de atuação**: *exclusivamente em tecnologia*
+- 🧭 **Áreas de atuação**: *exclusivamente em Tecnologia*
 - 💼 **Tipos de vagas**: CLT, PJ, estágio e temporário.
 - 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
 
 Portal de vagas de emprego para profissionais de Tecnologia criado pela Alura.
 
-
 ### *Trampos*
 
 [índice](#índice)
 
 - 🖥️ **Site**: [trampos.co](https://trampos.co/)
-- 🧭 **Áreas de atuação**: Deisgn, comunicação, marketing e tecnologia da informação.
+- 🧭 **Áreas de atuação**: Design, comunicação, marketing e tecnologia da informação.
 - 💼 **Tipos de vagas**: CLT, PJ, estágio e freelancer.
 - 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: possui plano básico gratuito, mas também há planos pagos.
@@ -82,25 +80,13 @@ Plataforma permite que você encontre oportunidades de emprego, estágio e freel
 
 ## Plataformas gerais
 
-### *Remotar*
-
-[índice](#índice)
-
-- 🖥️ **Site**: [remotar.com.br](https://remotar.com.br)
-- 🧭 **Áreas de atuação**: diversas, onde todas possuem vagas da modalidade home office e híbrido; contempla a área de TI.
-- 💼 **Tipos de vagas**: CLT, PJ, estágio, freelancer ou jovem aprendiz. 
-- 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
-- 💲 **Custo**: *gratuito*.
-
-Plataforma que conecta profissionais do trabalho remoto às melhores vagas selecionadas da modalidade. Oferece vagas remotas em todo o Brasil.
-
 ### *Indeed*
 
 [índice](#índice)
 
 - 🖥️ **Site**: [indeed.com](https://br.indeed.com)
 - 🧭 **Áreas de atuação**:  plataforma de oportunidades de emprego geral, onde contempla diversas áreas.
-- 💼 **Tipos de vagas**: CLT, PJ, estágio, freelancer ou jovem aprendiz. 
+- 💼 **Tipos de vagas**: CLT, PJ, estágio, freelancer ou jovem aprendiz.
 - 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
 
@@ -112,16 +98,13 @@ Plataforma de emprego geral. Conecta profissionais com diversas vagas pelo Brasi
 
 - 🖥️ **Site**: [vagas.com.br](https://www.vagas.com.br)
 - 🧭 **Áreas de atuação**:  plataforma de oportunidades de emprego geral, onde contempla diversas áreas.
-- 💼 **Tipos de vagas**: CLT, PJ, estágio, freelancer ou jovem aprendiz. 
+- 💼 **Tipos de vagas**: CLT, PJ, estágio, freelancer ou jovem aprendiz.
 - 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
 
 Plataforma de emprego geral, oferecendo vagas em diversas áreas por todo o país.
 
-
 ## Plataformas internacionais
-
-
 
 ## Estágios
 
@@ -130,38 +113,35 @@ Plataforma de emprego geral, oferecendo vagas em diversas áreas por todo o paí
 [índice](#índice)
 
 - 🖥️ **Site**: [estagiotrainee.com](https://www.estagiotrainee.com/vagas-programas-estagio?gclid=Cj0KCQjw4NujBhC5ARIsAF4Iv6fv0rnSyb4tBhXvb1LD3JrH_-GcYHvqYJVF4TuLh6qnm-6PqTZQPE8aAimvEALw_wcB)
-- 🧭 **Áreas de atuação**:  plataforma de oportunidades de 
+- 🧭 **Áreas de atuação**:  plataforma de oportunidades de
 estágio, onde contempla diversas áreas.
-- 💼 **Tipos de vagas**:  estágio ou trainee 
+- 💼 **Tipos de vagas**:  estágio ou trainee
 - 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
 
   Plataforma de oportunidades de estágio e trainee. Oferece vagas para estudantes em grandes empresas com programas de estágio.
-
 
 ### *Nube*
 
 [índice](#índice)
 
 - 🖥️ **Site**: [nube.com.br](https://www.nube.com.br)
-- 🧭 **Áreas de atuação**:  plataforma de oportunidades de 
+- 🧭 **Áreas de atuação**:  plataforma de oportunidades de
 estágio, onde contempla diversas áreas.
 - 💼 **Tipos de vagas**:  **exclusivamente estágio*
 - 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
-
 
 ### *Ciee*
 
 [índice](#índice)
 
 - 🖥️ **Site**: [portal.ciee.org.br](https://portal.ciee.org.br)
-- 🧭 **Áreas de atuação**:  plataforma de oportunidades de 
+- 🧭 **Áreas de atuação**:  plataforma de oportunidades de
 estágio e jovem aprendiz, onde contempla diversas áreas.
 - 💼 **Tipos de vagas**:  **exclusivamente estágio e jovem aprendiz*
 - 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
-
 
 ## Freelancer
 
