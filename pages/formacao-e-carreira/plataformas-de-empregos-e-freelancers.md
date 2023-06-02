@@ -106,6 +106,36 @@ Plataforma de emprego geral, oferecendo vagas em diversas áreas por todo o paí
 
 ## Plataformas internacionais
 
+### *Eurojobs*
+
+[índice](#índice)
+
+- 🖥️ **Site**: [eurojobs.com](https://eurojobs.com)
+- 🧭 **Áreas de atuação**: contempla diversas áreas, incluindo a de tecnologia.
+- 💼 **Tipos de vagas**: efetivo, estágio, temporário e freelancer
+- 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
+- 💲 **Custo**: *gratuito*
+
+### *Eures*
+
+[índice](#índice)
+
+- 🖥️ **Site**: [eures.ec.europa.eu](https://eures.ec.europa.eu/index_pt)
+- 🧭 **Áreas de atuação**: contempla diversas áreas, incluindo a de tecnologia.
+- 💼 **Tipos de vagas**: efetivo, estágio, temporário e freelancer
+- 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
+- 💲 **Custo**: *gratuito*
+
+### *USA Jobs*
+
+[índice](#índice)
+
+- 🖥️ **Site**: [usajobs.gov](https://www.usajobs.gov)
+- 🧭 **Áreas de atuação**: contempla diversas áreas, incluindo a de tecnologia.
+- 💼 **Tipos de vagas**: efetivo, estágio, temporário e freelancer
+- 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
+- 💲 **Custo**: *gratuito*
+
 ## Estágios
 
 ### *Estágio Trainee*
@@ -137,15 +167,87 @@ estágio, onde contempla diversas áreas.
 [índice](#índice)
 
 - 🖥️ **Site**: [portal.ciee.org.br](https://portal.ciee.org.br)
-- 🧭 **Áreas de atuação**:  plataforma de oportunidades de
-estágio e jovem aprendiz, onde contempla diversas áreas.
+- 🧭 **Áreas de atuação**:  contempla diversas áreas.
 - 💼 **Tipos de vagas**:  **exclusivamente estágio e jovem aprendiz*
 - 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
 
+Plataforma de oportunidades de
+estágio e jovem aprendiz, onde contempla diversas áreas.
+
+### *Super Estágios*
+
+[índice](#índice)
+
+- 🖥️ **Site**: [superestagios,com.br](https://www.superestagios.com.br/index/)
+- 🧭 **Áreas de atuação**: contempla diversas áreas de graduações.
+- 💼 **Tipos de vagas**: *exclusivamente estágio*
+- 🏢 **Modalidade de vagas**: remoto, híbrido ou presencial.
+- 💲 **Custo**: *gratuito*
+
+Plataforma de oportunidades de estágio; contempla a área de TI.
+
 ## Freelancer
 
-[voltar ao índice](#índice)
+### *Workana*
+
+[índice](#índice)
+
+- 🖥️ **Site**: [workana.com](https://www.workana.com/)
+- 🧭 **Áreas de atuação**: contempla diversas áreas, incluindo a de tecnologia.
+- 💼 **Tipos de vagas**: *exclusivamente freelancer*
+- 🏢 **Modalidade de vagas**: remoto.
+- 💲 **Custo**: *gratuito*
+
+### *99freelas*
+
+[índice](#índice)
+
+- 🖥️ **Site**: [99freelas.com.br](https://www.99freelas.com.br/)
+- 🧭 **Áreas de atuação**: contempla diversas áreas, incluindo a de tecnologia.
+- 💼 **Tipos de vagas**: *exclusivamente freelancer*
+- 🏢 **Modalidade de vagas**: remoto.
+- 💲 **Custo**: *gratuito*
+
+### *Upwork*
+
+[índice](#índice)
+
+- 🖥️ **Site**: [uowork.com](https://www.upwork.com/)
+- 🧭 **Áreas de atuação**: contempla diversas áreas, incluindo a de tecnologia.
+- 💼 **Tipos de vagas**: *exclusivamente freelancer*
+- 🏢 **Modalidade de vagas**: remoto.
+- 💲 **Custo**: *gratuito*
+
+### *Freelas*
+
+[índice](#índice)
+
+- 🖥️ **Site**: [freelas.com.br](https://freelas.com.br)
+- 🧭 **Áreas de atuação**: contempla diversas áreas, incluindo a de tecnologia.
+- 💼 **Tipos de vagas**: *exclusivamente freelancer*
+- 🏢 **Modalidade de vagas**: remoto.
+- 💲 **Custo**: *gratuíto*
+
+### *Freelancer*
+
+[índice](#índice)
+
+- 🖥️ **Site**: [freelancer.com.br](https://freelancer.com.br/)
+- 🧭 **Áreas de atuação**: contempla diversas áreas, incluindo a de tecnologia.
+- 💼 **Tipos de vagas**: *exclusivamente freelancer*
+- 🏢 **Modalidade de vagas**: remoto.
+- 💲 **Custo**: *gratuito*
+
+### *Get ninjas*
+
+[índice](#índice)
+
+- 🖥️ **Site**: [getninjas.com.br](https://www.getninjas.com.br/)
+- 🧭 **Áreas de atuação**: contempla diversas áreas, incluindo a de tecnologia.
+- 💼 **Tipos de vagas**: *exclusivamente freelancer*
+- 🏢 **Modalidade de vagas**: remoto.
+- 💲 **Custo**: *gratuito*
 
 <!--
 [índice](#índice)
