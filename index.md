@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guia Stella
+title: Stella
 ---
 
 ## Conteúdo
