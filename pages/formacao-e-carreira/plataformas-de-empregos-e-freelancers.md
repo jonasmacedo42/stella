@@ -27,7 +27,9 @@ description: Plataformas de vagas de empregos, vagas internacionais, estágios e
 - 💲 **Custo**: *gratuito*.
 - 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/programathor](https://www.reclameaqui.com.br/empresa/programathor/)
 
-![Facebook](../../images/_icons/facebook_round.png)
+![Facebook](../../assets/icons/facebook_round.png)
+
+
 
 Plataforma 100% dedicada ao recrutamento de programadores. Oferece acesso a várias oportunidades para desenvolvedores Front-end, Back-end, Mobile ou Full Stack. Além disso, a ProgramaThor também oferece uma ferramenta que expõe a média salarial praticada no mercado em função da linguagem e do nível de experiência dos candidatos.
 
