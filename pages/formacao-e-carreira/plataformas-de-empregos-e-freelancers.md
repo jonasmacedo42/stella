@@ -45,6 +45,10 @@ Plataforma 100% dedicada ao recrutamento de programadores. Oferece acesso a vár
 - 💲 **Custo**: *gratuito*.
 - 🗣️ **Perfil no ReclameAQUI**: *não possui no momento*
 
+[![Instagram](../../assets/icons/instagram_round_32.png)]()
+[![Twitter](../../assets/icons/twitter_round_32.png)]()
+[![LinkedIn](../../assets/icons/linkedin_round_32.png)]()
+
 Plataforma que conecta profissionais do trabalho remoto às melhores vagas selecionadas da modalidade. Oferece vagas remotas e híbridas em todo o Brasil.
 
 ### *Geek Hunter*
@@ -263,4 +267,10 @@ Plataforma de oportunidades de estágio; contempla a área de TI.
 - 💼 **Modalidade de vagas**: 
 - 🏢 **Tipos de vagas**: 
 - 💲 **Custo**: 
+
+[![Facebook](../../assets/icons/facebook_round_32.png)]()
+[![Instagram](../../assets/icons/instagram_round_32.png)]()
+[![Twitter](../../assets/icons/twitter_round_32.png)]()
+[![Discord](../../assets/icons/discord_round_32.png)]()
+[![LinkedIn](../../assets/icons/linkedin_round_32.png)]()
 -->
