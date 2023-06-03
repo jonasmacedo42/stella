@@ -27,7 +27,7 @@ description: Plataformas de vagas de empregos, vagas internacionais, estágios e
 - 💲 **Custo**: *gratuito*.
 - 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/programathor](https://www.reclameaqui.com.br/empresa/programathor/)
 
-![Facebook](../../assets/icons/facebook_round.png)
+[![Facebook](../../assets/icons/facebook_square_32.png)](https://www.facebook.com/ProgramaThorBr/)
 
 
 
