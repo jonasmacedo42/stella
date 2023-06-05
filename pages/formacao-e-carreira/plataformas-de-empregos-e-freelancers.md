@@ -73,6 +73,7 @@ Plataforma que conecta profissionais do trabalho remoto às melhores vagas selec
 - 💼 **Modalidade de vagas**: CLT, PJ, estágio e temporário.
 - 🏢 **Tipos de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
+- 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/hipsterjobs](https://www.reclameaqui.com.br/empresa/hipsters_1/lista-reclamacoes/)
 
 Portal de vagas de emprego para profissionais de Tecnologia criado pela Alura.
 
@@ -85,6 +86,8 @@ Portal de vagas de emprego para profissionais de Tecnologia criado pela Alura.
 - 💼 **Modalidade de vagas**: CLT, PJ, estágio e freelancer.
 - 🏢 **Tipos de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: possui plano básico gratuito, mas também há planos pagos.
+- 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/trampos](https://www.reclameaqui.com.br/empresa/trampos/)
+
 
 Plataforma permite que você encontre oportunidades de emprego, estágio e freelancer. Voltada para áreas como Design, Comunicação, Marketing e Tecnologia da Informação
 
@@ -99,6 +102,7 @@ Plataforma permite que você encontre oportunidades de emprego, estágio e freel
 - 💼 **Modalidade de vagas**: CLT, PJ, estágio, freelancer ou jovem aprendiz.
 - 🏢 **Tipos de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
+- 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/indeed](https://www.reclameaqui.com.br/empresa/indeed/)
 
 Plataforma de emprego geral. Conecta profissionais com diversas vagas pelo Brasil, abrange também a área de TI.
 
@@ -111,6 +115,7 @@ Plataforma de emprego geral. Conecta profissionais com diversas vagas pelo Brasi
 - 💼 **Modalidade de vagas**: CLT, PJ, estágio, freelancer ou jovem aprendiz.
 - 🏢 **Tipos de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
+- 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/vagas.com](https://www.reclameaqui.com.br/empresa/vagas-com/)
 
 Plataforma de emprego geral, oferecendo vagas em diversas áreas por todo o país.
 
@@ -125,6 +130,8 @@ Plataforma de emprego geral, oferecendo vagas em diversas áreas por todo o paí
 - 💼 **Modalidade de vagas**: efetivo, estágio, temporário e freelancer
 - 🏢 **Tipos de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*
+- 🗣️ **Perfil no ReclameAQUI**: *não possui no momento*
+
 
 ### *Eures*
 
@@ -135,6 +142,7 @@ Plataforma de emprego geral, oferecendo vagas em diversas áreas por todo o paí
 - 💼 **Modalidade de vagas**: efetivo, estágio, temporário e freelancer
 - 🏢 **Tipos de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*
+- 🗣️ **Perfil no ReclameAQUI**: *não possui no momento*
 
 ### *USA Jobs*
 
@@ -145,6 +153,7 @@ Plataforma de emprego geral, oferecendo vagas em diversas áreas por todo o paí
 - 💼 **Modalidade de vagas**: efetivo, estágio, temporário e freelancer
 - 🏢 **Tipos de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*
+- 🗣️ **Perfil no ReclameAQUI**: *não possui no momento*
 
 ## Estágios
 
@@ -158,6 +167,9 @@ estágio, onde contempla diversas áreas.
 - 💼 **Modalidade de vagas**:  estágio ou trainee
 - 🏢 **Tipos de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
+- 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/estagiotrainee](https://www.reclameaqui.com.br/empresa/estagio-trainee-com/)
+
+
 
   Plataforma de oportunidades de estágio e trainee. Oferece vagas para estudantes em grandes empresas com programas de estágio.
 
@@ -171,6 +183,7 @@ estágio, onde contempla diversas áreas.
 - 💼 **Modalidade de vagas**:  **exclusivamente estágio*
 - 🏢 **Tipos de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
+- 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/nube](https://www.reclameaqui.com.br/empresa/nube/)
 
 ### *Ciee*
 
@@ -181,6 +194,7 @@ estágio, onde contempla diversas áreas.
 - 💼 **Modalidade de vagas**:  **exclusivamente estágio e jovem aprendiz*
 - 🏢 **Tipos de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*.
+- 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/ciee](https://www.reclameaqui.com.br/empresa/ciee-centro-de-integracao-empresa-escola/)
 
 Plataforma de oportunidades de
 estágio e jovem aprendiz, onde contempla diversas áreas.
@@ -194,6 +208,7 @@ estágio e jovem aprendiz, onde contempla diversas áreas.
 - 💼 **Modalidade de vagas**: *exclusivamente estágio*
 - 🏢 **Tipos de vagas**: remoto, híbrido ou presencial.
 - 💲 **Custo**: *gratuito*
+- 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/superestagios](https://www.reclameaqui.com.br/empresa/super-estagios/)
 
 Plataforma de oportunidades de estágio; contempla a área de TI.
 
@@ -208,6 +223,7 @@ Plataforma de oportunidades de estágio; contempla a área de TI.
 - 💼 **Modalidade de vagas**: *exclusivamente freelancer*
 - 🏢 **Tipos de vagas**: remoto.
 - 💲 **Custo**: *gratuito*
+- 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/workana](https://www.reclameaqui.com.br/empresa/workana/)
 
 ### *99freelas*
 
@@ -218,6 +234,7 @@ Plataforma de oportunidades de estágio; contempla a área de TI.
 - 💼 **Modalidade de vagas**: *exclusivamente freelancer*
 - 🏢 **Tipos de vagas**: remoto.
 - 💲 **Custo**: *gratuito*
+- 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/99freelas](https://www.reclameaqui.com.br/empresa/99freelas/)
 
 ### *Upwork*
 
@@ -228,6 +245,7 @@ Plataforma de oportunidades de estágio; contempla a área de TI.
 - 💼 **Modalidade de vagas**: *exclusivamente freelancer*
 - 🏢 **Tipos de vagas**: remoto.
 - 💲 **Custo**: *gratuito*
+- 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/upwork](https://www.reclameaqui.com.br/empresa/upwork-legal/)
 
 ### *Freelas*
 
@@ -238,6 +256,7 @@ Plataforma de oportunidades de estágio; contempla a área de TI.
 - 💼 **Modalidade de vagas**: *exclusivamente freelancer*
 - 🏢 **Tipos de vagas**: remoto.
 - 💲 **Custo**: *gratuíto*
+- 🗣️ **Perfil no ReclameAQUI**: *não possui no momento*
 
 ### *Freelancer*
 
@@ -248,6 +267,7 @@ Plataforma de oportunidades de estágio; contempla a área de TI.
 - 💼 **Modalidade de vagas**: *exclusivamente freelancer*
 - 🏢 **Tipos de vagas**: remoto.
 - 💲 **Custo**: *gratuito*
+- 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/freelancer](https://www.reclameaqui.com.br/empresa/freelancer-com-br/)
 
 ### *Get ninjas*
 
@@ -258,6 +278,7 @@ Plataforma de oportunidades de estágio; contempla a área de TI.
 - 💼 **Modalidade de vagas**: *exclusivamente freelancer*
 - 🏢 **Tipos de vagas**: remoto.
 - 💲 **Custo**: *gratuito*
+- 🗣️ **Perfil no ReclameAQUI**: [reclameaqui.com.br/getninjas](https://www.reclameaqui.com.br/empresa/getninjas/)
 
 <!--
 [índice](#índice)
